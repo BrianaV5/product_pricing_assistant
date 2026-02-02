@@ -1,9 +1,9 @@
  //create and Intialize Variables
-let productName = "Hairbrush" //string
+let productName = "tote bag" //string
 let costPerUnit = 11.50;
 let basePrice = 18.99;
 let discountRate = 0.10;
-const salesTaxRate = 0.08;// tax rate 
+const salesTaxRate = 0.08;// const because tax rate 
 let fixedMonthlyCosts = 1300;
 
 // Calculate Pricing & Profit Metrics 
